@@ -1,6 +1,5 @@
 
-# research-infographics
-# Research Tools and Methods Infographics
+# Research Infographics - Scientific Tools and Methods
 
 Welcome to this repository dedicated to a collection of infographics on various research tools and methods. 
 These visual guides are designed to provide an easy-to-understand overview of different techniques and tools used in research.
